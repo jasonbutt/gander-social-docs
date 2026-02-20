@@ -17,7 +17,6 @@ This repo contains the source content for the public Gander Social User Guide.
 - Written in plain language
 - Focused on real user experience
 - Continuously improved by the community
-- Reviewed and moderated by the Gander Social team
 
 The published guide is available here:  
 👉 **[Link to the live docs site]**
@@ -25,10 +24,10 @@ The published guide is available here:
 ---
 
 ## What this is not
-
 - This is **not** a product roadmap
 - This is **not** a support ticket system
 - This is **not** marketing content
+- This is **not** official (Community driven)
 
 Docs should describe **current behavior**, not future plans or speculation.
 
@@ -38,7 +37,6 @@ Docs should describe **current behavior**, not future plans or speculation.
 
 - Everyday users looking for help or clarity
 - Community members who want to improve documentation
-- Moderators and admins referencing shared guidance
 - Anyone who notices something outdated or unclear
 
 You do **not** need to be technical to contribute.
@@ -78,7 +76,7 @@ If you know what the fix should be:
 
 A maintainer will take it from there.
 
-More details are in **CONTRIBUTING.md**.
+More details are in **contributing.md**.
 
 ---
 
@@ -86,7 +84,7 @@ More details are in **CONTRIBUTING.md**.
 
 A few simple rules keep this useful for everyone:
 
-- Be respectful and constructive
+- Be respectful and constructive - community volunteers
 - Write for clarity, not cleverness
 - Describe how the product works *today*
 - Avoid assumptions, opinions, or speculation

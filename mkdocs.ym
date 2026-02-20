@@ -1,0 +1,9 @@
+site_name: Gander Social User Guide
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - FAQ: faq.md

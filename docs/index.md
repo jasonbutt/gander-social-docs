@@ -10,7 +10,7 @@
 
 This is the central repository for all Gander Social operational data (really just a community managed guide). Whether you are a new user finding your wings or a veteran contributor helping us build the "Nest," you'll find everything you need here.
 
-### Current Mission Parameters:material-leaf-maple:{ .red-icon}
+### :material-leaf-maple:Current Mission Parameters
 
 Gander is currently in a closed beta, which means we aren't just users—we are the "Flock." Our job is to stress-test the Nest and help each other navigate the early days of the app and maybe help the "Flight-crew"(the hard working devs at Gander).
 
@@ -20,7 +20,7 @@ Gander is currently in a closed beta, which means we aren't just users—we are 
 
 What else would you like to see in this guide? File a [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose) here and let us know.
 
-### Directory: The Flight Path
+### :material-leaf-maple:Directory: The Flight Path
 
 Select a sector below to begin your briefing:
 

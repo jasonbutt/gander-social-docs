@@ -7,7 +7,7 @@ theme:
       primary: red # Canadian Red accent
       accent: red
   icon:
-    logo: material/leaf-maple # Representing the community protection aspect
+    logo: material/goose # Representing the community protection aspect
     repo: fontawesome/brands/github
   features:
     - navigation.sections

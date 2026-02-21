@@ -1,5 +1,4 @@
 # IDENTITY MANAGEMENT
-
 ---
 
 !!! danger "UNOFFICIAL INTELLIGENCE"
@@ -9,7 +8,7 @@
 
 ## JOINING THE FORMATION
 
-### ROTOCOL 01: VISUAL IDENTITY
+### Visual Identity
 
 Your profile is your digital transponder in the Nest. Understanding these interface markers will help you navigate your own identity and engage with other members of the flock.
 
@@ -37,48 +36,46 @@ The bottom navigation bar is your primary tool for moving through Gander's secto
 !!! tip "💡 TACTICAL TIP: POSTS VS. BOARDS"
     Just above the navigation bar, you can toggle between your **Honks (Posts)** and your **Boards**. While Honks are your chronological transmissions, **Boards** are curated folders where you can organize intel by topic for others to explore (coming soon).
 
-### PROTOCOL 02: THE DISPLAY NAME VS HANDLE (@USERNAME)
+### The Display Name VS Handle
 
 In the Nest, your identity is split into two distinct layers. Understanding the difference is key to navigating the AT Protocol.
 
 * **Display Name (The Mask):** This is your human-readable name (e.g., **J.G. Butterfield 🇨🇦**). It is purely cosmetic and can be changed at any time. You can use emojis, spaces, and special characters here to reflect your current mission or personality.
 * **User Handle (The Transponder):** This is your permanent address (e.g., `@jgbutterfieldwrites.gander.social`).
-  * **The Technical Bit:** Because Gander is built on the **AT Protocol**, your handle acts as a unique pointer to your data.
-  * **Portability:** In the future, the AT Protocol allows you to move your "User Handle" and all your data to different servers (instances) without losing your followers or history.
+* **The Technical Bit:** Because Gander is built on the **AT Protocol**, your handle acts as a unique pointer to your data.
+* **Portability:** In the future, the AT Protocol allows you to move your "User Handle" and all your data to different servers (instances) without losing your followers or history.
 
 !!! info "Tactical Summary"
     Your **Display Name** is how the flock sees you; your **Handle** is how the network finds you.
 
 ![Profile Interface](images/edit-gander-profile.png)
 
-### PROTOCOL 03: SECURITY & RECOVERY
+### Security & Recovery
 
 Managing your transponder settings is critical for maintaining your presence in the Nest. Access these by tapping the **Gear Icon** on your profile.
 
 ![Profile Interface](images/settings-account.png)
 
-#### ACCOUNT COMMANDS
+#### Account Commands
 
 Navigate to **Settings → Account settings** to manage your core credentials:
-- **Email Management:** View or update the primary contact address associated with your flock identity.
-- **Username (Handle):** View your current `@handle.gander.social`. *Note: Changing this may affect how others find you on the AT Protocol.*
-- **Password Control:** Initiate a secure reset of your access codes.
+* **Email Management:** View or update the primary contact address associated with your flock identity.
+* **Username (Handle):** View your current `@handle.gander.social`. *Note: Changing this may affect how others find you on the AT Protocol.*
+* **Password Control:** Initiate a secure reset of your access codes.
 
-#### DATA PRIVACY PROTOCOLS
+#### Data Privacy
 Gander emphasizes user sovereignty. In the **Data privacy** section, you have full control over your footprint:
-- **Export My Data:** Download a complete archive of your transmissions, media, and social graph.
-- **Deactivate Account:** Temporarily silence your signal. Your data remains on the server but is hidden from the public feed.
-- **Delete Account:** Permanent termination of your identity and deletion of your data from the AT Protocol instance.
+* **Export My Data:** Download a complete archive of your transmissions, media, and social graph.
+* **Deactivate Account:** Temporarily silence your signal. Your data remains on the server but is hidden from the public feed.
+* **Delete Account:** Permanent termination of your identity and deletion of your data from the AT Protocol instance.
 
-#### OPERATIONAL OVERSIGHT
+#### Operational Oversight
 The main Settings menu provides access to further mission-critical sectors:
-- **Moderation:** Configure your content filters and manage blocked signals to keep your feed clean.
-- **Content and Media:** Adjust how the Nest renders images and video to optimize for your current bandwidth.
-- **Get Help / Legal:** Access official briefing documents and report technical "Signal Drift" to the dev team.
+* **Moderation:** Configure your content filters and manage blocked signals to keep your feed clean.
+* **Content and Media:** Adjust how the Nest renders images and video to optimize for your current bandwidth.
+* **Get Help / Legal:** Access official briefing documents and report technical "Signal Drift" to the dev team.
 
----
-
-!!! danger "MISSION LOGOUT"
+!!! info "MISSION LOGOUT"
     To safely exit the app, use the **Sign out** command at the bottom of the Settings menu. Ensure you have your credentials saved, as the Nest requires a fresh handshake for every new session.
 
 ---

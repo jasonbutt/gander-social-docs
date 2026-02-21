@@ -10,7 +10,7 @@
 
 This is the central repository for all Gander Social operational data (really just a community managed guide). Whether you are a new user finding your wings or a veteran contributor helping us build the "Nest," you'll find everything you need here.
 
-### Current Mission Parameters
+### Current Mission Parameters:material-leaf-maple:{ .red-icon}
 
 Gander is currently in a closed beta, which means we aren't just users—we are the "Flock." Our job is to stress-test the Nest and help each other navigate the early days of the app and maybe help the "Flight-crew"(the hard working devs at Gander).
 
@@ -31,3 +31,11 @@ Select a sector below to begin your briefing:
 - [**The Field Manual**](contributing.md): How to contribute intel and fly in formation with this guide.
 - [**Intel FAQ**](faq.md): Quick answers for common community queries.
 - [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose): Submit a User Guide bug report directly to the community hub.
+
+---
+
+!!! danger "UNOFFICIAL BRIEFING"
+    Data based on Release 1.0.1 (109).
+    This is community-observed intelligence.
+
+---

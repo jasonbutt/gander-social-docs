@@ -2,9 +2,10 @@
 
 ## INTERACTING WITH THE NEST
 
-!!! danger "UNOFFICIAL BRIEFING"
-    Data based on Release 1.0.1 (109).
-    This is community-observed intelligence.
+---
+
+!!! danger "UNOFFICIAL INTELLIGENCE"
+    This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
 ---
 
@@ -44,3 +45,11 @@ Beyond the standard feed, Gander provides tools to organize and consume specific
 - **Boards:** Think of these as curated shelves on your profile. You can group related posts into themed collections.
 - **Flicks:** High-speed vertical video content. Engagement here works similarly to standard posts, but optimized for a full-screen visual experience.
   ![Flicks Interface](images/add-flick.png)
+
+---
+
+!!! danger "UNOFFICIAL BRIEFING"
+    Data based on Release 1.0.1 (109).
+    This is community-observed intelligence.
+
+---

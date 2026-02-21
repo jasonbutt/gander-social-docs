@@ -22,5 +22,6 @@ extra:
 nav:
   - The Flight Path: index.md
   - Intelligence (FAQ): faq.md
+  - Field Maneuvers (How-To): how-to.md
   - Field Manual (Contributing): contributing.md
   - Onboarding (Getting Started): getting-started.md

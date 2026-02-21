@@ -1,29 +1,32 @@
-# 🪶 ONBOARDING: JOINING THE FORMATION
+# 🪶 IDENTITY MANAGEMENT: JOINING THE FORMATION
 
-!!! danger "REMINDER"
-This guide is maintained by community volunteers and investors. It is not an official Gander Social document.
+!!! danger "UNOFFICIAL INTELLIGENCE"
+This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
 ---
 
-## 🛰 INITIALIZING YOUR ACCOUNT
+## 📸 PROTOCOL 01: VISUAL IDENTITY
 
-To join the Gander network, follow these steps as observed by the beta community:
+Your profile is your "reconnaissance photo" for the community. Gander Social is currently a closed BETA, and recognizability builds trust faster than anonymity.
 
-1.  **Secure your Handle:** If you were on the early access list, check your transmission (email) for your unique registration link.
-2.  **Verify Location:** Ensure your device recognizes your Canadian residency to access local-first content.
-3.  **Sync with the AT Protocol:** Your Gander account is your key to the decentralized web. Keep your recovery codes safe—there is no "Central Command" to reset them if lost.
+![Profile Interface](images/gander-profile.png)
 
-## 🏗 BUILDING YOUR NEST
+- **Profile Image:** Use a clear headshot or a clean brand logo if building a creator presence.
+- **Display Name:** This is your readable name, not your handle. You can change this at any time to reflect your evolving voice.
+- **The Bio:** You have up to 4000 characters. Use clear beats to signal your interests and help the right "flock" find you. Hyperlinks and emojis are permitted.
 
-In Gander, your "Nest" is your curated circle.
+## 🆔 PROTOCOL 02: THE HANDLE (@USERNAME)
 
-- **Follow with Intent:** Use the discovery tools to find creators and neighbors.
-- **Flicks:** Engage with short-form video content without the dopamine-loop algorithms found on foreign platforms.
-- **Boards:** Organize intel and posts into public or private collections.
+This is your permanent identifier on the Gander network.
 
-## 🛡 PROTOCOLS FOR SAFETY
+![Profile Interface](images/edit-gander-profile.png)
 
-As beta users, we recommend:
+- **Consistency:** Keep it consistent with your other platforms if possible.
+- **Permanence:** While you can change it, switching your @handle after building visibility can disrupt how people find and tag you.
 
-- **Bias-Checks:** Utilize the built-in transparency tools to see the source of news links.
-- **Troll-Hunting:** Use the community reporting tools to keep the network clean and constructive.
+## 🔐 PROTOCOL 03: SECURITY & RECOVERY
+
+- **The Recovery Anchor:** Ensure your email is current; it is your only way to recover access.
+- **Data Portability:** Under Account Settings, you can find the **"Export my data"** tool. This supports the transparency and portability central to the AT Protocol.
+
+![Profile Interface](images/settings-account.png)

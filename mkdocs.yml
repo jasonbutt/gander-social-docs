@@ -13,6 +13,10 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer # This makes the "Next/Previous" buttons look sharp
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -20,12 +24,6 @@ extra:
       disclaimer: >-
         This site is a community-led initiative by Gander Social investors and beta participants. 
         It is independent of Gander Social corporate entities.
-
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
 nav:
   - The Flight Path: index.md
   - Onboarding (Getting Started): getting-started.md
@@ -35,7 +33,6 @@ nav:
   - Field Manual (Contributing): contributing.md
   - Intelligence (FAQ): faq.md
   - Report Signal Drift: https://github.com/jasonbutt/gander-social-docs/issues/new/choose
-
 copyright: >-
   This hub is maintained by @jgbutterfieldwrites as a Gander community member and investor. 
   It is not an official Gander Social publication. 

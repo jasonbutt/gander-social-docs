@@ -2,7 +2,8 @@
 
 ![Post Interaction Controls](images/communitybased-header.png)
 
-!!! danger "CLASSIFIED: UNOFFICIAL INTELLIGENCE" **This is NOT an officially sanctioned Gander Social manual.**
+!!! danger "CLASSIFIED: UNOFFICIAL INTELLIGENCE"
+**This is NOT an officially sanctioned Gander Social manual.**
 This hub is a civilian-led initiative produced by beta community members. While we aim for 100% accuracy in our intelligence, please refer to [GanderSocial.ca](https://gandersocial.ca) for official corporate communications.
 
 > **"Social media that doesn't make you want to throw your phone into a lake."**

@@ -1,4 +1,4 @@
-# IDENTITY MANAGEMENT
+# JOINING THE FORMATION
 ---
 
 !!! danger "UNOFFICIAL INTELLIGENCE"
@@ -6,9 +6,7 @@
 
 ---
 
-## JOINING THE FORMATION
-
-### :material-leaf-maple:Visual Identity
+## :material-leaf-maple:Visual Identity
 
 Your profile is your digital transponder in the Nest. Understanding these interface markers will help you navigate your own identity and engage with other members of the flock.
 
@@ -50,13 +48,13 @@ In the Nest, your identity is split into two distinct layers. Understanding the 
 
 ![Profile Interface](images/edit-gander-profile.png)
 
-### :material-leaf-maple:Security & Recovery
+## :material-leaf-maple:Security & Recovery
 
 Managing your transponder settings is critical for maintaining your presence in the Nest. Access these by tapping the **Gear Icon** on your profile.
 
 ![Profile Interface](images/settings-account.png)
 
-#### Account Commands
+### Account Commands
 
 Navigate to **Settings → Account settings** to manage your core credentials:
 
@@ -64,14 +62,14 @@ Navigate to **Settings → Account settings** to manage your core credentials:
 * **Username (Handle):** View your current `@handle.gander.social`. *Note: Changing this may affect how others find you on the AT Protocol.*
 * **Password Control:** Initiate a secure reset of your access codes.
 
-#### Data Privacy
+### Data Privacy
 Gander emphasizes user sovereignty. In the **Data privacy** section, you have full control over your footprint:
 
 * **Export My Data:** Download a complete archive of your transmissions, media, and social graph.
 * **Deactivate Account:** Temporarily silence your signal. Your data remains on the server but is hidden from the public feed.
 * **Delete Account:** Permanent termination of your identity and deletion of your data from the AT Protocol instance.
 
-#### Operational Oversight
+### Operational Oversight
 The main Settings menu provides access to further mission-critical sectors:
 
 * **Moderation:** Configure your content filters and manage blocked signals to keep your feed clean.

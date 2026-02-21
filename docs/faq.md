@@ -1,7 +1,7 @@
 # INTELLIGENCE (FAQ)
 
 !!! info "Operational Context"
-These answers are compiled by the community based on the Gander Roadmap and Beta observations. For official status updates, monitor the [Gander Social Roadmap](https://gandersocial.ca/#roadmap).
+   These answers are compiled by the community based on the Gander Roadmap and Beta observations. For official status updates, monitor the [Gander Social Roadmap](https://gandersocial.ca/#roadmap).
 
 ---
 
@@ -26,3 +26,10 @@ These answers are compiled by the community based on the Gander Roadmap and Beta
 **Q: Who is behind Gander?** **A:** A crew of Canadians with backgrounds in civic tech, security, and media ethics. The leadership includes Ben Waldman (CEO), Jennifer Mitchell (COO), and Jeff Wood (CTO).
 
 **Q: Can I still invest?** **A:** The initial FrontFundr equity crowdfunding campaign was scheduled to close in early 2026. Check the main site for current "Impact Investment" opportunities.
+
+---
+
+!!! danger "UNOFFICIAL INTELLIGENCE"
+    This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
+
+---

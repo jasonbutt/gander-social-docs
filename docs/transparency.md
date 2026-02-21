@@ -7,7 +7,7 @@
 
 ---
 
-## :material-leaf-maple:MEDIA VERIFICATION
+## :material-leaf-maple:Media Verification
 
 Gander is designed to combat misinformation by providing real-time context for external links. When you share a news article or website, the "Truth Transponder" automatically pulls data to help the flock assess the signal quality. When you post a link this way, the system checks the source against `mediafactcheck.com`.
 
@@ -33,7 +33,7 @@ When you paste a URL (like `https://cbc.ca`) into a new **Honk**, Gander generat
 ---
 
 !!! tip "TACTICAL TIP: SIGNAL VS. NOISE"
-If a link generates a **LOW FACTUALITY** or **EXTREME BIAS** warning, it doesn't mean you can't post it—it just means the flock will see that metadata. This empowers everyone to make their own informed decisions about the intelligence being shared.
+    If a link generates a **LOW FACTUALITY** or **EXTREME BIAS** warning, it doesn't mean you can't post it—it just means the flock will see that metadata. This empowers everyone to make their own informed decisions about the intelligence being shared.
 
 ---
 

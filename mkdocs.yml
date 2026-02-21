@@ -15,7 +15,10 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-username/your-repo
+      link: https://github.com/jasonbutt/gander-social-docs
+      disclaimer: >-
+        This site is a community-led initiative by Gander Social investors and beta participants. 
+        It is independent of Gander Social corporate entities.
 nav:
   - The Flight Path: index.md
   - Intelligence (FAQ): faq.md

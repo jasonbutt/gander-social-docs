@@ -8,7 +8,7 @@
 
 ## JOINING THE FORMATION
 
-### Visual Identity
+### :material-leaf-maple:Visual Identity
 
 Your profile is your digital transponder in the Nest. Understanding these interface markers will help you navigate your own identity and engage with other members of the flock.
 
@@ -36,7 +36,7 @@ The bottom navigation bar is your primary tool for moving through Gander's secto
 !!! tip "💡 TACTICAL TIP: POSTS VS. BOARDS"
     Just above the navigation bar, you can toggle between your **Honks (Posts)** and your **Boards**. While Honks are your chronological transmissions, **Boards** are curated folders where you can organize intel by topic for others to explore (coming soon).
 
-### The Display Name VS Handle
+### :material-leaf-maple:The Display Name VS Handle
 
 In the Nest, your identity is split into two distinct layers. Understanding the difference is key to navigating the AT Protocol.
 
@@ -50,7 +50,7 @@ In the Nest, your identity is split into two distinct layers. Understanding the 
 
 ![Profile Interface](images/edit-gander-profile.png)
 
-### Security & Recovery
+### :material-leaf-maple:Security & Recovery
 
 Managing your transponder settings is critical for maintaining your presence in the Nest. Access these by tapping the **Gear Icon** on your profile.
 
@@ -59,24 +59,46 @@ Managing your transponder settings is critical for maintaining your presence in 
 #### Account Commands
 
 Navigate to **Settings → Account settings** to manage your core credentials:
+
 * **Email Management:** View or update the primary contact address associated with your flock identity.
 * **Username (Handle):** View your current `@handle.gander.social`. *Note: Changing this may affect how others find you on the AT Protocol.*
 * **Password Control:** Initiate a secure reset of your access codes.
 
 #### Data Privacy
 Gander emphasizes user sovereignty. In the **Data privacy** section, you have full control over your footprint:
+
 * **Export My Data:** Download a complete archive of your transmissions, media, and social graph.
 * **Deactivate Account:** Temporarily silence your signal. Your data remains on the server but is hidden from the public feed.
 * **Delete Account:** Permanent termination of your identity and deletion of your data from the AT Protocol instance.
 
 #### Operational Oversight
 The main Settings menu provides access to further mission-critical sectors:
+
 * **Moderation:** Configure your content filters and manage blocked signals to keep your feed clean.
 * **Content and Media:** Adjust how the Nest renders images and video to optimize for your current bandwidth.
 * **Get Help / Legal:** Access official briefing documents and report technical "Signal Drift" to the dev team.
 
-!!! info "MISSION LOGOUT"
+!!! warning "MISSION LOGOUT"
     To safely exit the app, use the **Sign out** command at the bottom of the Settings menu. Ensure you have your credentials saved, as the Nest requires a fresh handshake for every new session.
+
+---
+
+## :material-leaf-maple:Content & Media Preferences
+
+Your experience in the Nest is customizable. Within the **Content and media** sector of your settings, you can toggle how the app handles transparency labels and third-party intel.
+
+### Transperancy Toggles
+
+Navigate to **Settings → Content and media** to adjust your viewing parameters:
+
+* **Show labeled AI content:** * **ON:** Displays posts that creators have tagged as AI-generated. 
+    * **OFF:** Silences transmissions with synthetic metadata, prioritizing purely human-made signal in your feed.
+
+* **Show bias + fact-check ratings:** * **ON:** Displays third-party media bias and factuality labels on link previews (e.g., CBC ratings). 
+    * **OFF:** Hides these labels for a cleaner, marker-free interface.
+
+!!! info "The Verification Philosophy"
+    Gander defaults these settings to **ON** to support the "Truth & Transparency" mission. Disabling these markers reduces your available intelligence on external links and synthetic content.
 
 ---
 

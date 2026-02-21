@@ -1,15 +1,12 @@
-# Flight MANEUVERS:
+# FLIGHT MANEUVERS
 
-## Interacting with the Nest
-
----
 
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
 ---
 
-## The Tramsmission(POSTING)
+## :material-leaf-maple:The Tramsmission(POSTING)
 
 When initiating a new **Honk** (Post), you will see an attribution selector above your keyboard. This ensures your **Honk** carries the correct metadata for the community. There will be other tags for content in the future (so, we hear.)
 
@@ -28,12 +25,13 @@ Transparency is a core mission parameter. By tagging your content correctly, you
 !!! info "Tactical Tip: The Honk Workflow"
     Before you hit **Post**, get into the habit of checking your attribution. It only takes a second to switch between "Human-made" and "AI-generated," but it defines the integrity of your signal in the feed.
 
-## Anatomy of a Honk
+## :material-leaf-maple:Anatomy of a Honk
 A **Honk** is more than just a post; it is a transmission to the Nest. Understanding the engagement markers allows you to amplify high-signal content and join the conversation effectively.
 
 ![Post Interaction Controls](images/thepost.png)
 
 Every Honk in your feed includes specific metadata and interaction points:
+
 * **Author Identity:** Displays the sender's profile image and `@handle`. A red checkmark indicates a verified community signal.
 * **Timestamp:** Shows how long ago the transmission was emitted (e.g., "a day").
 * **Content Area:** The primary payload—text, hashtags (like `#PetTax`), and media (images or video).
@@ -41,6 +39,7 @@ Every Honk in your feed includes specific metadata and interaction points:
 
 ### Engagement
 At the bottom of every Honk, you have four primary ways to interact with the flock:
+
 * **🤍 Likes:** A simple acknowledgment of the signal. Tapping the heart increases the visibility of the transmission within the Nest.
 * **💬 Comment:** Initiate a direct response or start a sub-thread. This is where the deepest community discourse happens.
 * **🔁 Repost / Quote:** * **Repost:** Immediately amplify the signal to your own followers.
@@ -51,14 +50,15 @@ At the bottom of every Honk, you have four primary ways to interact with the flo
 !!! info "The #Hashtag Strategy"
     Using hashtags like `#PetTax` or `#GanderBeta` isn't just for flair—it helps the search transponders categorize your intel so the right members of the flock can find it. And we all know you have to pay the `#PetTax`
 
-## The "Timmies' Rule" (CONVERSATION)
+## :material-leaf-maple:The "Timmies' Rule" (CONVERSATION)
 
 We maintain a "sharing space" rather than a "noise" space.
+
 - **Context is Queen:** If you share a link, add a short briefing above it explaining why it matters.
 - **Thread Hygiene:** When replying, aim to improve the thread rather than inflaming it.
 - **Mentions (@):** Tagging other flyers is an invitation to join the dialogue, not a summons for attention.
 
-## Board Tactics: Curating the Nest
+## :material-leaf-maple:Board Tactics: Curating the Nest
 On Gander, you don't just "Honk" into the void, you organize your intelligence. **Boards** are curated folders that allow you to group transmissions by topic, project, or interest. Unlike a chronological feed, Boards are evergreen and provide a structured way for the flock to explore your content(currently it limited to your visability).
 ![Boards](images/boards.png)
 
@@ -82,13 +82,13 @@ Boards transform your profile from a simple timeline into a library of community
 !!! tip "💡 Tactical Curation"
     Think of Boards like the chapters of a book. Use them to group your best #PetTax photos, your #IndieAuthor updates, or community guides like this one!
 
-## Flicks
+## :material-leaf-maple:Flicks
 
 **Flicks** are Gander’s dedicated sector for short-form, vertical video **Honks**. Whether it’s a quick update from the field or a deep-dive report, Flicks allow you to share high-impact visual intel with the flock.
 
   ![Flicks Interface](images/add-flick.png)
 
-### 🎥 Flicks Parameters
+### Flicks Parameters
 To maintain signal quality and viewer engagement, Flicks must adhere to the following duration protocols:
 * **Short Bursts (15 Seconds):** Ideal for quick "Pet Tax" check-ins, atmospheric captures, or rapid-fire alerts.
 * **Deep Dives (Up to 3 Minutes):** Perfect for cinematic storytelling, technical tutorials, or detailed mission briefings. 

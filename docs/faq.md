@@ -1,11 +1,11 @@
-# 📡 INTELLIGENCE (FAQ)
+# INTELLIGENCE (FAQ)
 
 !!! info "Operational Context"
 These answers are compiled by the community based on the Gander Roadmap and Beta observations. For official status updates, monitor the [Gander Social Roadmap](https://gandersocial.ca/#roadmap).
 
 ---
 
-### 🛡️ THE PROTOCOL & PRIVACY
+### THE PROTOCOL & PRIVACY
 
 **Q: What is the "AT Protocol" I keep hearing about?** **A:** Think of it as the open-air frequency we all fly on. It’s the same decentralized foundation used by Bluesky. It means you own your identity and can move between servers without losing your "feathers" (followers/data).
 
@@ -13,7 +13,7 @@ These answers are compiled by the community based on the Gander Roadmap and Beta
 
 ---
 
-### 🐣 THE NEST (BETA & ACCESS)
+### THE NEST (BETA & ACCESS)
 
 **Q: When is the official launch?** **A:** We are currently in the **Expanded Beta** phase as of Q1 2026. The team is refining video features and onboarding the early access program members.
 
@@ -21,7 +21,7 @@ These answers are compiled by the community based on the Gander Roadmap and Beta
 
 ---
 
-### 📈 INVESTOR & COMMUNITY
+### INVESTOR & COMMUNITY
 
 **Q: Who is behind Gander?** **A:** A crew of Canadians with backgrounds in civic tech, security, and media ethics. The leadership includes Ben Waldman (CEO), Jennifer Mitchell (COO), and Jeff Wood (CTO).
 

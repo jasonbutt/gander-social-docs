@@ -1,3 +1,5 @@
+![Post Interaction Controls](images/communitybased-header.png)
+
 # 🇨🇦 Welcome to the Gander Intelligence Hub
 
 !!! danger "CLASSIFIED: UNOFFICIAL INTELLIGENCE"
@@ -7,14 +9,20 @@
 
 This is the central repository for all Gander Social operational data. Whether you are a new user finding your wings or a veteran contributor helping us build the "Nest," you'll find everything you need here.
 
-### 📍 Current Mission Parameters
+### Current Mission Parameters
 
 - **Privacy First:** No tracking. No surveillance. Just community.
 - **The AT Protocol:** Building on open-source foundations.
 - **Community-Led Intelligence:** Built by investors and beta testers who want to see the "Nest" succeed. We aren't the devs, we're the boots on the ground.
 
-### 🧭 Quick Links
+### DIRECTORY: THE FLIGHT PATH
 
-- [**Join the Formation**](getting-started.md): How to get set up.
-- [**The Field Manual**](contributing.md): How to contribute intel to this guide.
-- [**Intel FAQ**](faq.md): Quick answers for common queries.
+Select a sector below to begin your briefing:
+
+- [**Join the Formation**](getting-started.md): How to get set up and establish your identity.
+- [**Field Maneuvers**](how-to.md): Tactical app instructions for posting, links, and boards.
+- [**Truth & Transparency**](transparency.md): Intelligence on our digital sovereignty and AI tagging.
+- [**The Briefing Room**](briefing-room.md): Latest roadmap updates and beta release notes.
+- [**The Field Manual**](contributing.md): How to contribute intel and fly in formation with this guide.
+- [**Intel FAQ**](faq.md): Quick answers for common community queries.
+- [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose): Submit a User Guide bug report directly to the community hub.

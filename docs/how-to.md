@@ -1,4 +1,4 @@
-# 🛠 FIELD MANEUVERS: INTERACTING WITH THE NEST
+# FIELD MANEUVERS: INTERACTING WITH THE NEST
 
 !!! danger "UNOFFICIAL BRIEFING"
 Data based on Release 1.0.1 (109). This is community-observed intelligence.

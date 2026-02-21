@@ -14,7 +14,7 @@ This is the central repository for all Gander Social operational data (really ju
 
 Gander is currently in a closed beta, which means we aren't just users—we are the "Flock." Our job is to stress-test the Nest and help each other navigate the early days of the app and maybe help the "Flight-crew"(the hard working devs at Gander).
 
-- **Observe & Report:** We are here to find the "Signal Drift." If a feature feels clunky or you find a bug, log it in the Signal Drift tracker. Your feedback directly helps the devs sharpen the platform.
+- **Observe & Report:** We are here to find the "Signal Drift." If a feature feels clunky or you find a bug, log it in the app's "Get Help". Click on the "Question mark" at the top right or, get this, shake your phone. Nice, eh! Your feedback directly helps the devs sharpen the platform.
 - **Define the Culture:** We're the ones starting the "Honks." How we interact now sets the tone for the thousands who will join later. Aim for high signal, low noise.
 - **Build the Guide:** Found a trick that makes the app easier to use? A shortcut for Boards? A better way to tag? Share it. We are building the manual for the next wave of the flock.
 

@@ -1,5 +1,5 @@
 # INTELLIGENCE (FAQ)
-
+---
 !!! info "Operational Context"
     These answers are compiled by the community based on the Gander Roadmap and Beta observations. For official status updates, monitor the [Gander Social Roadmap](https://gandersocial.ca/#roadmap).
 

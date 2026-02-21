@@ -1,9 +1,10 @@
 ---
 name: Signal Drift (Bug Report)
-about: Report a technical glitch or inconsistency in the Gander app.
-title: '[DRIFT] '
+about: Report a technical glitch or inconsistency in the Gander Community Document.
+title: "[DRIFT] "
 labels: bug
-assignees: ''
+assignees: jasonbutt
+
 ---
 
 ### Operational Context

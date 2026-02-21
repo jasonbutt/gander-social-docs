@@ -1,6 +1,6 @@
-# FIELD MANEUVERS:
+# Flight MANEUVERS:
 
-## INTERACTING WITH THE NEST
+## Interacting with the Nest
 
 ---
 

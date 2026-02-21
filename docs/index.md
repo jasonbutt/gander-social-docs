@@ -15,6 +15,8 @@ This is the central repository for all Gander Social operational data (really ju
 - **The AT Protocol:** Building on open-source foundations.
 - **Community-Led Intelligence:** Built by investors and beta testers who want to see the "Nest" succeed. We aren't the devs, we're the boots on the ground.
 
+What else would you like to see in this guide. File a [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose) here and let us know.
+
 ### DIRECTORY: THE FLIGHT PATH
 
 Select a sector below to begin your briefing:

@@ -17,3 +17,9 @@ In the spirit of Gander, Newfoundland—where people opened their homes to stran
 
 1. **Scout the Area:** Check for existing Issues before starting a task.
 2. **Submit your Report:** Use a Pull Request to merge your data into the main branch.
+
+### 📸 VISUAL INTEL PROTOCOL
+
+- All images must be placed in the `docs/images/` directory.
+- Use descriptive filenames (e.g., `login-screen-beta.png`).
+- Maintain the "Northern Noir" aesthetic: high-contrast screenshots are preferred.

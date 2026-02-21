@@ -7,7 +7,7 @@
 
 > **"Social media that doesn't make you want to throw your phone into a lake."**
 
-This is the central repository for all Gander Social operational data. Whether you are a new user finding your wings or a veteran contributor helping us build the "Nest," you'll find everything you need here.
+This is the central repository for all Gander Social operational data (really just a community guide). Whether you are a new user finding your wings or a veteran contributor helping us build the "Nest," you'll find everything you need here.
 
 ### Current Mission Parameters
 

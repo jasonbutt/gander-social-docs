@@ -3,7 +3,7 @@ theme:
   name: material
   palette:
     # Gander's Slate and Teal palette
-    - scheme: slate # This provides the black/dark-grey background
+    - scheme: default # This provides the black/dark-grey background
       primary: red # Canadian Red accent
       accent: red
   icon:
@@ -20,14 +20,20 @@ extra:
       disclaimer: >-
         This site is a community-led initiative by Gander Social investors and beta participants. 
         It is independent of Gander Social corporate entities.
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - The Flight Path: index.md
-  - Intelligence (FAQ): faq.md
+  - Onboarding (Getting Started): getting-started.md
   - Field Maneuvers (How-To): how-to.md
   - Transparency (Truth): transparency.md
   - Breifing Room (Updates): briefing-room.md
   - Field Manual (Contributing): contributing.md
-  - Onboarding (Getting Started): getting-started.md
+  - Intelligence (FAQ): faq.md
   - Report Signal Drift: https://github.com/jasonbutt/gander-social-docs/issues/new/choose
 
 copyright: >-

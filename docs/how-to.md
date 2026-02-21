@@ -1,7 +1,8 @@
-# FIELD MANEUVERS: INTERACTING WITH THE NEST
+# FIELD MANEUVERS:
 
-!!! danger "UNOFFICIAL BRIEFING"
-Data based on Release 1.0.1 (109). This is community-observed intelligence.
+## INTERACTING WITH THE NEST
+
+!!! danger "UNOFFICIAL BRIEFING" Data based on Release 1.0.1 (109). This is community-observed intelligence.
 
 ---
 
@@ -12,6 +13,7 @@ When broadcasting to the Gander network, follow these community-established norm
 - **Signal vs. Noise:** Use context. A link without a briefing (commentary) is just noise.
 - **Authorship Tags:** Always disclose if a post is **Human-made** or **AI-generated**. Transparency is the bedrock of our digital sovereignty.
 - **The 300 Limit:** Keep your intel tight. URLs count toward your character limit.
+  ![How was it made](images/how-made.png)
 
 ## THE ENGAGEMENT STRIP
 

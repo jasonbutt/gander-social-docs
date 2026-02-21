@@ -5,13 +5,10 @@
 
 ---
 
----
-
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
 ---
-
 
 ## The Roadmap
 
@@ -28,7 +25,8 @@ The community is currently operating on **Release 1.0.1 (109)**.
 
 - **Human-Made Tags:** The transparency signaling system for AI vs. Human content is active and functional.
 - **Link Previews:** Integration with `mediafactcheck.com` is live for verified sources.
-- **Canadian Sovereignty:** Hosting remains confirmed on sovereign Canadian servers via ThinkOn.
+- **Hashtags:** Hashtags work now. Pay your `#PetTax`.
+
 
 ## Release Notes from Gander
 

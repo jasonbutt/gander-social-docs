@@ -62,6 +62,12 @@ Navigate to **Settings → Account settings** to manage your core credentials:
 * **Username (Handle):** View your current `@handle.gander.social`. *Note: Changing this may affect how others find you on the AT Protocol.*
 * **Password Control:** Initiate a secure reset of your access codes.
 
+### Moderation
+
+Navigate to **Settings → Moderation** to manage your blocklist:
+
+* **Blockes Accounts:** View or update blocked accounts you've deemed not in your flock v-formation.
+
 ### Data Privacy
 Gander emphasizes user sovereignty. In the **Data privacy** section, you have full control over your footprint:
 

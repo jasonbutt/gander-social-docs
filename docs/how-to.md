@@ -86,6 +86,35 @@ Boards transform your profile from a simple timeline into a library of community
 !!! tip "💡 Tactical Curation"
     Think of Boards like the chapters of a book. Use them to group your best #PetTax photos, your #IndieAuthor updates, or community guides like this one!
 
+## :material-leaf-maple:Curating Your Nest
+
+In the vast expanse of the AT Protocol, **Your Nest** is your curated command center. It allows you to filter the noise of the global feed and focus specifically on the individuals and organizations you trust most.
+
+![Your Nest](images/your-nest.png)
+
+### Cross-Platform Signal
+
+Because Gander is built on the **AT Protocol**, your Nest can include:
+
+* **Gander Locals:** Members of the flock directly on the Gander instance.
+* **Bluesky Contacts:** Because both platforms share the same open-source code, you can engage with and add Bluesky users directly to your Nest without leaving the app.
+
+### Managing Who's in your Nest
+
+To customize your primary feed, tap **Edit Your Nest** from the home screen:
+
+1. **Search for user:** Use the search bar to find specific handles or display names across the protocol.
+2. **Add to Formation:** Tap the **Add** button next to a user's name. Once added, they will appear with a checkmark, signaling they are part of "In Your Nest."
+3. **Refine Your Feed:** You can toggle between the **Following** feed (everyone you follow) and **Your Nest** (your high-priority curated list) using the tabs at the top of your dashboard.
+
+---
+
+!!! info "The Sovereignty Protocol"
+    The option to engage with users on other platforms like Bluesky is entirely up to you. You have full sovereignty over your Nest, you choose who enters your formation and whose signal you prioritize.
+
+!!! tip "Tactical Curation"
+    Use "Your Nest" for your must, read alerts and close colleagues, while using the "Following" tab for general situational awareness of the wider flock.
+
 ## :material-leaf-maple:Flicks
 
 **Flicks** are Gander’s dedicated sector for short-form, vertical video **Honks**. Whether it’s a quick update from the field or a deep-dive report, Flicks allow you to share high-impact visual intel with the flock.

@@ -12,9 +12,11 @@ This is the central repository for all Gander Social operational data (really ju
 
 ### Current Mission Parameters
 
-- **Privacy First:** No tracking. No surveillance. Just community.
-- **The AT Protocol:** Building on open-source foundations.
-- **Community-Led Intelligence:** Built by beta testers who want to see the "Nest" succeed. We aren't the devs, we're the boots on the ground.
+Gander is currently in a closed beta, which means we aren't just users—we are the "Flock." Our job is to stress-test the Nest and help each other navigate the early days of the app and maybe help the "Flight-crew"(the hard working devs at Gander).
+
+- **Observe & Report:** We are here to find the "Signal Drift." If a feature feels clunky or you find a bug, log it in the Signal Drift tracker. Your feedback directly helps the devs sharpen the platform.
+- **Define the Culture:** We're the ones starting the "Honks." How we interact now sets the tone for the thousands who will join later. Aim for high signal, low noise.
+- **Build the Guide:** Found a trick that makes the app easier to use? A shortcut for Boards? A better way to tag? Share it. We are building the manual for the next wave of the flock.
 
 What else would you like to see in this guide? File a [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose) here and let us know.
 

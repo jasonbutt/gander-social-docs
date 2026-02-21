@@ -1,7 +1,7 @@
 # 🛡️ TRUTH & TRANSPARENCY PROTOCOLS
 
 !!! warning "INTELLIGENCE OBJECTIVE"
-Gander Social is architected to respect data privacy by default and curb algorithmic chaos. These tools are the primary defenses against disinformation.
+    Gander Social is architected to respect data privacy by default and curb algorithmic chaos. These tools are the primary defenses against disinformation.
 
 ---
 
@@ -25,7 +25,7 @@ To maintain the integrity of the "Nest," transparency regarding how content is c
 
 ## DIGITAL SOVEREIGNTY
 
-As a community-led hub, we value where our data lives.
+As a community-led hub, we all value where our data lives.
 
 - **Canadian Servers:** All Gander data is hosted on sovereign Canadian servers (via ThinkOn), protected by Canadian laws.
 - **The AT Protocol:** Gander is built on the same open, decentralized foundation as Bluesky, ensuring you aren't locked into a "surveillance-based" system.

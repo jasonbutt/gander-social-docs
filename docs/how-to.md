@@ -20,6 +20,7 @@ When broadcasting to the Gander network, follow these community-established norm
 ## THE ENGAGEMENT STRIP
 
 Every transmission (post) has a set of engagement controls at the bottom. Learn these early to move faster.
+
 ![Post Interaction Controls](images/thepost.png)
 
 - **Like:** A lightweight signal of appreciation or agreement.

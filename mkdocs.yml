@@ -1,9 +1,19 @@
-site_name: Gander Social User Guide
-
+site_name: Gander Social Community Documentation Hub
 theme:
   name: material
+  palette:
+    # Gander's Slate and Teal palette
+    - scheme: slate
+      primary: teal
+      accent: deep orange
+  icon:
+    logo: material/feather # A nod to the Gander theme
+  features:
+    - navigation.sections
+    - navigation.expand
 
 nav:
-  - Home: index.md
-  - Getting Started: getting-started.md
-  - FAQ: faq.md
+  - The Flight Path: index.md
+  - Intelligence (FAQ): faq.md
+  - Field Manual (Contributing): contributing.md
+  - Onboarding (Getting Started): getting-started.md

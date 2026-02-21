@@ -3,15 +3,19 @@ theme:
   name: material
   palette:
     # Gander's Slate and Teal palette
-    - scheme: slate
-      primary: teal
-      accent: deep orange
+    - scheme: slate # This provides the black/dark-grey background
+      primary: red # Canadian Red accent
+      accent: red
   icon:
-    logo: material/feather # A nod to the Gander theme
+    logo: material/shield-account # Representing the community protection aspect
+    repo: fontawesome/brands/github
   features:
     - navigation.sections
     - navigation.expand
-
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-username/your-repo
 nav:
   - The Flight Path: index.md
   - Intelligence (FAQ): faq.md

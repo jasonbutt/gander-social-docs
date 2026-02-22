@@ -19,7 +19,7 @@ This repo contains the source content for the public Gander Social User Guide.
 - Continuously improved by the community
 
 The published guide is available here:  
-👉 **[Link to the live docs site]**
+👉 **[\[Gander Community Help Guide\]](https://jasonbutt.github.io/gander-social-docs/)**
 
 ---
 
@@ -27,7 +27,7 @@ The published guide is available here:
 - This is **not** a product roadmap
 - This is **not** a support ticket system
 - This is **not** marketing content
-- This is **not** official (Community driven)
+- This is **not** official (it's Community driven)
 
 Docs should describe **current behavior**, not future plans or speculation.
 

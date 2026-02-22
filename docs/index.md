@@ -18,7 +18,7 @@ Gander is currently in a closed beta, which means we aren't just users—we are 
 - **Define the Culture:** We're the ones starting the "Honks." How we interact now sets the tone for the thousands who will join later. Aim for high signal, low noise.
 - **Build the Guide:** Found a trick that makes the app easier to use? A shortcut for Boards? A better way to tag? Share it. We are building the manual for the next wave of the flock.
 
-What else would you like to see in this guide? File a [**Report Signal Drift through Github**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose) on Github and let us know. If you do not have a Github account you can submit via the Google form located here [**Report Signal Drift through Google Form](https://forms.gle/aqf7NzzWMouooegt6).
+What else would you like to see in this guide? File a [**Report Signal Drift through Github**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose) on Github and let us know. If you do not have a Github account you can submit via the Google form located here [**Report Signal Drift through Google Form**](https://forms.gle/aqf7NzzWMouooegt6).
 Send a comments or suggestions through Gander (if we follow each other - or on BlueSky @jasonbu.online)
 
 ### :material-leaf-maple:Directory: The Flight Path

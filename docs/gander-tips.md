@@ -6,4 +6,4 @@
 
 ---
 
-The #GanderTips frequency is the central library for community-sourced intelligence. Use this guide to optimize your signal and master the maneuvers of the Nest.
+The #GanderTips frequency is the central library for community-sourced intelligence. Use this guide to optimize your signal and master the manoeuvers of the Nest.

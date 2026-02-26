@@ -12,7 +12,7 @@ This is the central repository for all Gander Social community based operational
 
 ### :material-leaf-maple:Current Mission Parameters
 
-Gander is currently in a closed beta, which means we aren't just users—we are the "Flock." Our job is to stress-test the Nest and help each other navigate the early days of the app and maybe help the "Flight-crew"(the hard working devs at Gander). The intent is to grow and update the User Guide as Gander grows and releases more features.
+Gander is currently in a closed beta, which means we aren't just users—we are the "Flock." Our job is to stress-test the Nest and help each other navigate the early days of the app and maybe help the "Flight-crew"(the hard-working devs at Gander). The intent is to grow and update the User Guide as Gander grows and releases more features.
 
 - **Observe & Report:** We are here to find the "Signal Drift." If a feature feels clunky or you find a bug, log it in the app's "Get Help". Click on the "Question mark" at the top right or, get this, shake your phone. Nice, eh! Your feedback directly helps the devs sharpen the platform.
 - **Define the Culture:** We're the ones starting the "Honks." How we interact now sets the tone for the thousands who will join later. Aim for high signal, low noise.

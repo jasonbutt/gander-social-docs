@@ -77,7 +77,7 @@ While you can create any tag, certain "Sector Tags" have become standard within 
 !!! info "The Search Horizon"
     Because Gander is on the AT Protocol, searching for a hashtag can often pull in signals from the entire network, including Bluesky, depending on your current search settings.
 
-## :material-leaf-maple:The "Timmies' Rule" (CONVERSATION)
+## :material-leaf-maple:The "Timmies' Rule"
 
 We maintain a "sharing space" rather than a "noise" space.
 
@@ -85,7 +85,7 @@ We maintain a "sharing space" rather than a "noise" space.
 - **Thread Hygiene:** When replying, aim to improve the thread rather than inflaming it.
 - **Mentions (@):** Tagging other flyers is an invitation to join the dialogue, not a summons for attention.
 
-## :material-leaf-maple:Board Tactics: Curating the Nest
+## material-leaf-maple:Board Tactics
 On Gander, you don't just "Honk" into the void, you organize your intelligence. **Boards** are curated folders that allow you to group transmissions by topic, project, or interest. Unlike a chronological feed, Boards are evergreen and provide a structured way for the flock to explore your content(currently it limited to your visability).
 ![Boards](images/boards.png)
 

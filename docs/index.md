@@ -30,7 +30,7 @@ Select a sector below to begin your briefing:
 - [**Truth & Transparency**](transparency.md): Intelligence on our digital sovereignty and AI tagging.
 - [**The Briefing Room**](briefing-room.md): Latest roadmap updates and beta release notes.
 - [**Intel FAQ**](faq.md): Quick answers for common community queries.
-- [**#GanderTips**](gander-tips.md): Tips and trick gathered by the Gander community.
+- [**#GanderTips**](gander-tips.md): Tips and tricks gathered by the Gander flock.
 - [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose): Submit a User Guide bug report directly to the community hub.
 
 ---

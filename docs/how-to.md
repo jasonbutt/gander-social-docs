@@ -72,7 +72,7 @@ While you can create any tag, certain "Sector Tags" have become standard within 
 * **[#GanderTips](gander-tips.md):** Used for sharing real-world updates, news, or atmospheric captures from your location.
 
 !!! tip "💡 Tactical Tagging"
-    Don't over-signal. Using 1–3 relevant hashtags is high-signal; using a wall of tags creates "noise" that can lead to your transmission being ignored or filtered by moderation tools.
+    Don't over-signal. Using 1–3 relevant hashtags is high-signal; using a wall of tags creates "noise" that can lead to your transmission being ignored or filtered by moderation tools. Also, please use #CamelCase and/or #PascalCase so they are accessible. It's easier to read.
 
 !!! info "The Search Horizon"
     Because Gander is on the AT Protocol, searching for a hashtag can often pull in signals from the entire network, including Bluesky, depending on your current search settings.

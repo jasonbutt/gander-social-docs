@@ -22,15 +22,19 @@ Based on the current trajectory, the following mission objectives are in progres
 
 ## Release Notes (COMMUNITY OBSERVED)
 
-The community is currently operating on **Release 1.0.1 (109)**.
+The Flock is currently operating on **Release 1.0.1 (109)**.
 
 - **Human-Made Tags:** The transparency signaling system for AI vs. Human content is active and functional.
+- **Improved Poster:** New and improved post composer: now supports media-only posts, ALT text, and quoting with media
 - **Link Previews:** Integration with `mediafactcheck.com` is live for verified sources.
+- **Flicks:** Videos or flicks (vertical video scrolling) is back
+- **Delete:** Turf your post or your account (yikes!)
 - **Hashtags:** Hashtags work now. Pay your `#PetTax`.
 
 
 ## Release Notes from Gander
 
+- [Release v1.0.0.109 – February, 18 2026](https://gandersocial.ca/blog/release-v1-0-0-109-february-18-2026/)
 - [Release v1.0.0.104 – February 3 2026](https://gandersocial.ca/blog/release-v1-0-0-104-february-3-2026/)
 - [Release v1.0.0.100 – Jan 20 2026](https://gandersocial.ca/blog/release-v1-0-0-100-jan-20-2026/)
 

@@ -26,7 +26,7 @@ Transparency is a core mission parameter. By tagging your content correctly, you
 !!! info "Tactical Tip: The Honk Workflow"
     Before you hit **Post**, get into the habit of checking your attribution. It only takes a second to switch between "Human-made" and "AI-generated," but it defines the integrity of your signal in the feed.
 
-## :material-leaf-maple:Anatomy of a Honk
+## Anatomy of a Honk
 A **Honk** is more than just a post; it is a transmission to the Nest. Understanding the engagement markers allows you to amplify high-signal content and join the conversation effectively.
 
 ![Post Interaction Controls](images/thepost.png)
@@ -50,6 +50,32 @@ At the bottom of every Honk, you have four primary ways to interact with the flo
 
 !!! info "The #Hashtag Strategy"
     Using hashtags like `#PetTax` or `#GanderBeta` isn't just for flair—it helps the search transponders categorize your intel so the right members of the flock can find it. And we all know you have to pay the `#PetTax`
+
+## :material-leaf-maple:Hashtags 
+
+In the Nest, **Hashtags** act as frequency markers. They aren't just for flair; they allow the Gander search to categorize your honks so the right members of the flock can find your intel.
+
+### Using a Tag
+
+When composing a **Honk** or a **Flick**, simply type the `#` symbol followed by your keyword.
+
+* **Active Links:** Once posted, hashtags become clickable links. Tapping a tag will immediately scan the protocol for all other transmissions using that same frequency.
+* **Discovery:** Use the **Search (Magnifying Glass)** icon in the top navigation bar to manually enter hashtags and see what the wider flock is discussing.
+
+### Popular Gander Tags
+
+While you can create any tag, certain "Sector Tags" have become standard within the Gander formation:
+
+* **#PetTax:** The most critical community protocol. If you mention a pet, you are expected to provide visual intel (a photo or video) as "tax."
+* **#GanderBeta:** Used for reporting bugs, sharing feedback, or discussing app updates with the dev team.
+* **#IndieAuthor / #WritingCommunity:** Common frequencies for the creative wing of the flock to share their progress and publications.
+* **[#GanderTips](gander-tips.md):** Used for sharing real-world updates, news, or atmospheric captures from your location.
+
+!!! tip "💡 Tactical Tagging"
+    Don't over-signal. Using 1–3 relevant hashtags is high-signal; using a wall of tags creates "noise" that can lead to your transmission being ignored or filtered by moderation tools.
+
+!!! info "The Search Horizon"
+    Because Gander is on the AT Protocol, searching for a hashtag can often pull in signals from the entire network, including Bluesky, depending on your current search settings.
 
 ## :material-leaf-maple:The "Timmies' Rule" (CONVERSATION)
 

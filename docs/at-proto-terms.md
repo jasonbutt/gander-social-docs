@@ -16,7 +16,7 @@ Gander is built on the AT Protocol (Authenticated Transfer Protocol). Unlike tra
 
 **DID (Decentralized Identifier)**: Your permanent, cryptographic ID. While your "Handle" (like @user.gander.social) is human-readable and can be changed, your DID is a string of characters that never changes. It acts as your permanent "Passport" on the network.
 
-**Handle**: Your human-readable alias (e.g., @jgbutterfieldwrites.gander.social). Handles are mapped to DIDs. You can even use your own web domain (like @yourname.ca) as your handle for the ultimate "Gold Standard" of verification.
+**Handle**: Your human-readable alias (e.g., @michiel.gander.social). Handles are mapped to DIDs. You can even use your own web domain (like @yourname.ca) as your handle for the ultimate "Gold Standard" of verification.
 
 **PLC (Placeholder)**: A specific type of DID directory used by the AT Protocol to manage how handles are mapped to IDs, ensuring that when you move your data, the network can still find you.
 

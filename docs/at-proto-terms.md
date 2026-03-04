@@ -39,7 +39,7 @@ For those who want to study the blueprints of the Nest, these external transmiss
 
 If you're digging into the raw data or developer logs, you may encounter these more obscure frequency markers:
 
-- CID (Content Identifier): A unique "fingerprint" for a specific piece of content. Every Honk or image has a CID; if even one character of a post changes, the CID changes entirely. This ensures the integrity of the data.
+- **CID (Content Identifier)**: A unique "fingerprint" for a specific piece of content. Every Honk or image has a CID; if even one character of a post changes, the CID changes entirely. This ensures the integrity of the data.
 - **Collection**: A group of similar records. For example, all your posts are in a app.bsky.feed.post collection, while your likes are in app.bsky.feed.like.
 - **Federation**: The process by which independent servers (PDS nodes) connect and exchange information to form a single, unified network.
 - **Lexicon**: The "dictionary" or schema that defines what a piece of data looks like. It tells the app how to display a "Honk" vs. a "Profile."

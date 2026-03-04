@@ -1,4 +1,7 @@
 # FLIGHT MANEUVERS
+
+![How-to](images/flight-header.png)
+
 ---
 
 !!! danger "UNOFFICIAL INTELLIGENCE"

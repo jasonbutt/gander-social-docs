@@ -1,4 +1,7 @@
 # JOINING THE FORMATION
+
+![Onboarding Stuff](images/onboarding-header.png)
+
 ---
 
 !!! danger "UNOFFICIAL INTELLIGENCE"

@@ -1,5 +1,7 @@
 # TRUTH & TRANSPARENCY PROTOCOLS
 
+![Transparency](images/transparency-header.png)
+
 ---
 
 !!! danger "UNOFFICIAL INTELLIGENCE"

@@ -4,7 +4,7 @@
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
-## HASHTAGS TO TRACK
+## Hashtags to Track
 
 Hashtags on Gander function as markers across the posts. Use these to find specific formations. The #GanderTips frequency is the central library for community-sourced intelligence. Use this guide to optimize your signal and master the manoeuvers of the Nest (Remember, use CamelCase for visually impared text-readers.)
 
@@ -13,7 +13,7 @@ Hashtags on Gander function as markers across the posts. Use these to find speci
 
 At the moment @OceanofHonks is keeping #Hashtags posts alive. Follow them for additional updates.
 
-* '#GanderGuide'
+* `#GanderGuide`
 * '#GanderTips'
 * '#PetTax'
 * '#BloomScrolling / #Flowers / #Nature / #NaturOfGander'

@@ -4,7 +4,7 @@
 
 Gander is built on the AT Protocol (Authenticated Transfer Protocol). Unlike traditional social media platforms that act as "walled gardens," the AT Protocol is a decentralized network where you own your data. To navigate this landscape, you need to understand the technical markers that define your signal.
 
-## CORE INFRASTRUCTURE
+## Core Infrastructure
 
 **AT Protocol (Authenticated Transfer Protocol)**: The "engine" of the network. It is an open-source set of rules that allows different social media servers to talk to each other, much like how different email providers (Gmail, Outlook) can exchange messages.
 
@@ -12,7 +12,7 @@ Gander is built on the AT Protocol (Authenticated Transfer Protocol). Unlike tra
 
 **Relay (The Firehose)**: A large-scale service that crawls all PDS nodes to collect every new transmission. It acts as the network's "heartbeat," pumping data to the apps that display it.
 
-## IDENTITY MARKERS
+## Identity Markers
 
 **DID (Decentralized Identifier)**: Your permanent, cryptographic ID. While your "Handle" (like @user.gander.social) is human-readable and can be changed, your DID is a string of characters that never changes. It acts as your permanent "Passport" on the network.
 
@@ -20,13 +20,13 @@ Gander is built on the AT Protocol (Authenticated Transfer Protocol). Unlike tra
 
 **PLC (Placeholder)**: A specific type of DID directory used by the AT Protocol to manage how handles are mapped to IDs, ensuring that when you move your data, the network can still find you.
 
-## THE VIEWING LENS
+## The Viewing Lens
 
 **AppView**: The service that organizes the "Firehose" of data into a format you can actually read. When you open the Gander app, you are interacting with an AppView that calculates your feed, likes, and notifications.
 
 **Labeller**: An independent service (like [Ozone](https://github.com/bluesky-social/ozone/blob/main/docs/userguide.md)) that adds metadata to posts. Labellers are used for content warnings, fact-checking, and AI disclosure. You choose which labellers you trust in your settings. Gander is working on moderation based on Ozone.
 
-## EXTERNAL INTEL & RESOURCES
+## External Intel & Resources
 
 For those who want to study the blueprints of the Nest, these external transmissions are highly recommended:
 
@@ -35,7 +35,7 @@ For those who want to study the blueprints of the Nest, these external transmiss
 - [**Bluesky Documentation**](https://bsky.social/about): Insights from the team that originally developed the AT Protocol.
 - [**Ozone Moderation Documentation**](https://github.com/bluesky-social/ozone): Technical details on the tool Gander uses for community-led moderation and labelling.
 
-## GLOSSARY OF TACTICAL TERMS
+## Glossary of Tactical Terms
 
 If you're digging into the raw data or developer logs, you may encounter these more obscure frequency markers:
 

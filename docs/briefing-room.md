@@ -31,6 +31,11 @@ The Flock is currently operating on **Release 1.0.1 (109)**.
 - **Delete:** Turf your post or your account (yikes!)
 - **Hashtags:** Hashtags work now. Pay your `#PetTax`.
 
+## Bugs and Know Issues
+
+If you encounter "Signal Drift" or unexpected behaviour, consult the official logs before reporting:
+
+[**Gander Social Known Bugs**](https://gandersocial.ca/blog/gander-beta-known-bugs/): The flight crew's official list of tracked issues and planned repairs. Last Updated March 5, 9:01AM.
 
 ## Release Notes from Gander
 
@@ -41,5 +46,3 @@ The Flock is currently operating on **Release 1.0.1 (109)**.
 !!! danger "UNOFFICIAL BRIEFING"
     Data based on Release 1.0.1 (109).
     This is community-observed intelligence.
-
----

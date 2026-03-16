@@ -1,4 +1,6 @@
+
 # GANDER TIPS: ADVICE FROM THE FLOCK
+
 ---
 
 !!! danger "UNOFFICIAL INTELLIGENCE"
@@ -15,18 +17,18 @@ Hashtags on Gander function as markers across the posts. Use these to find speci
 
 At the moment @OceanofHonks is keeping #Hashtags posts alive. Follow them for additional updates.
 
-#GanderGuide
-#GanderTips
-#PetTax
-#BloomScrolling / #Flowers / #Nature / #NaturOfGander
-#Gardening / #Photography
-#Photographer / #Gaming
-#GamePlay / #Food / #Art / #Artist
-#IndieAuthor / #WritingCommunity
-#Painting / #CdnPoli / #Canada
-#BuyCanadian / #TeamCanada
-#HeyCafe / #Books / #Reading
-#Music / #Hocky / #Olympics
-#GanderFrancais
+'#GanderGuide'
+'#GanderTips'
+'#PetTax'
+'#BloomScrolling / #Flowers / #Nature / #NaturOfGander'
+'#Gardening / #Photography'
+'#Photographer / #Gaming'
+'#GamePlay / #Food / #Art / #Artist'
+'#IndieAuthor / #WritingCommunity'
+'#Painting / #CdnPoli / #Canada'
+'#BuyCanadian / #TeamCanada'
+'#HeyCafe / #Books / #Reading'
+'#Music / #Hocky / #Olympics'
+'#GanderFrancais'
 
-#AccessibilityMatters
+'#AccessibilityMatters'

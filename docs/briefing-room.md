@@ -1,10 +1,7 @@
 # THE BRIEFING ROOM
 
----
 !!! info "Status Report: February 2026"
     This sector tracks the evolution of Gander Social based on community observations and official roadmap progress.
-
----
 
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).

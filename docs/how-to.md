@@ -2,12 +2,8 @@
 
 ![How-to](images/flight-header.png)
 
----
-
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
-
----
 
 ## :material-leaf-maple:The Tramsmission(POSTING)
 
@@ -30,6 +26,7 @@ Transparency is a core mission parameter. By tagging your content correctly, you
     Before you hit **Post**, get into the habit of checking your attribution. It only takes a second to switch between "Human-made" and "AI-generated," but it defines the integrity of your signal in the feed.
 
 ## Anatomy of a Honk
+
 A **Honk** is more than just a post; it is a transmission to the Nest. Understanding the engagement markers allows you to amplify high-signal content and join the conversation effectively.
 
 ![Post Interaction Controls](images/thepost.png)
@@ -42,6 +39,7 @@ Every Honk in your feed includes specific metadata and interaction points:
 * **Extended Intel (Three Dots):** Access the sub-menu to report "Signal Drift," mute the sender, or copy the direct link to the transmission.
 
 ### Engagement
+
 At the bottom of every Honk, you have four primary ways to interact with the flock:
 
 * **🤍 Likes:** A simple acknowledgment of the signal. Tapping the heart increases the visibility of the transmission within the Nest.
@@ -54,7 +52,7 @@ At the bottom of every Honk, you have four primary ways to interact with the flo
 !!! info "The #Hashtag Strategy"
     Using hashtags like `#PetTax` or `#GanderBeta` isn't just for flair—it helps the search transponders categorize your intel so the right members of the flock can find it. And we all know you have to pay the `#PetTax`
 
-## :material-leaf-maple:Hashtags 
+## :material-leaf-maple:Hashtags
 
 In the Nest, **Hashtags** act as frequency markers. They aren't just for flair; they allow the Gander search to categorize your honks so the right members of the flock can find your intel.
 
@@ -84,15 +82,17 @@ While you can create any tag, certain "Sector Tags" have become standard within 
 
 We maintain a "sharing space" rather than a "noise" space.
 
-- **Context is Queen:** If you share a link, add a short briefing above it explaining why it matters.
-- **Thread Hygiene:** When replying, aim to improve the thread rather than inflaming it.
-- **Mentions (@):** Tagging other flyers is an invitation to join the dialogue, not a summons for attention.
+* **Context is Queen:** If you share a link, add a short briefing above it explaining why it matters.
+* **Thread Hygiene:** When replying, aim to improve the thread rather than inflaming it.
+* **Mentions (@):** Tagging other flyers is an invitation to join the dialogue, not a summons for attention.
 
 ## material-leaf-maple:Board Tactics
+
 On Gander, you don't just "Honk" into the void, you organize your intelligence. **Boards** are curated folders that allow you to group transmissions by topic, project, or interest. Unlike a chronological feed, Boards are evergreen and provide a structured way for the flock to explore your content(currently it limited to your visability).
 ![Boards](images/boards.png)
 
 ### Creating a New Formation
+
 To establish a new Board, navigate to your profile and follow these tactical steps:
 
 1. **Toggle to Boards:** Switch from your "Posts" (Honks) view to the **Boards** tab.
@@ -101,12 +101,14 @@ To establish a new Board, navigate to your profile and follow these tactical ste
 4. **Confirm:** Tap **Create Board** to deploy it to your profile.
 
 ### Archiving (ADDING HONKS)
+
 Once a Board is active, you can save **honks** to it:
 
 * **From your own Honks:** When creating or viewing your own or someone elses **Honks**, use the "Add to Board" prompt.
 * **Organization:** You can add a single Honk to multiple Boards if the intel overlaps sectors. Simply check the boxes for the relevant Boards and hit **Save**.
 
 ### Why Boards Matter
+
 Boards transform your profile from a simple timeline into a library of community value.
 
 * **For Curators:** It allows you to showcase your best work or specific niche interests without them getting buried by new Honks.
@@ -136,8 +138,6 @@ To customize your primary feed, tap **Edit Your Nest** from the home screen:
 2. **Add to Formation:** Tap the **Add** button next to a user's name. Once added, they will appear with a checkmark, signaling they are part of "In Your Nest."
 3. **Refine Your Feed:** You can toggle between the **Following** feed (everyone you follow) and **Your Nest** (your high-priority curated list) using the tabs at the top of your dashboard.
 
----
-
 !!! info "The Sovereignty Protocol"
     The option to engage with users on other platforms like Bluesky is entirely up to you. You have full sovereignty over your Nest, you choose who enters your formation and whose signal you prioritize.
 
@@ -151,12 +151,14 @@ To customize your primary feed, tap **Edit Your Nest** from the home screen:
   ![Flicks Interface](images/add-flick.png)
 
 ### Flicks Parameters
+
 To maintain signal quality and viewer engagement, Flicks must adhere to the following duration protocols:
 
 * **Short Bursts (15 Seconds):** Ideal for quick "Pet Tax" check-ins, atmospheric captures, or rapid-fire alerts.
 * **Deep Dives (Up to 3 Minutes):** Perfect for cinematic storytelling, technical tutorials, or detailed mission briefings. 
 
 ### Deploying a Flick
+
 To initiate a video transmission, tap the **Plus (+)** icon in the navigation hub and toggle from "Post" to **"Flick"**:
 
 1. **Add Video:** Tap the central upload area to select a vertical video from your device's archive.
@@ -165,6 +167,7 @@ To initiate a video transmission, tap the **Plus (+)** icon in the navigation hu
 4. **Post:** Hit the red **Post** button to broadcast your Flick to the feed.
 
 ### The Viewing Experience
+
 When navigating the **Flicks Feed** (via the play icon in the bottom bar), you can interact with transmissions in real-time:
 
 * **Vertical Immersion:** Flicks are designed for full-screen, vertical viewing.
@@ -174,10 +177,6 @@ When navigating the **Flicks Feed** (via the play icon in the bottom bar), you c
 !!! info "The Gander Video Philosophy"
     Flicks aren't just about "content", they are about authentic, human-made windows into your world. Whether you're capturing the quiet of the North or the chaos of a project, keep your signal clear and your attribution honest.
 
----
-
 !!! danger "UNOFFICIAL BRIEFING"
     Data based on Release 1.0.1 (109).
     This is community-observed intelligence.
-
----

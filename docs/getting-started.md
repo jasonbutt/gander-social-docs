@@ -2,12 +2,8 @@
 
 ![Onboarding Stuff](images/onboarding-header.png)
 
----
-
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
-
----
 
 ## :material-leaf-maple:Visual Identity
 
@@ -18,6 +14,7 @@ Your profile is your digital transponder in the Nest. Understanding these interf
 * **Profile Image:** Your visual signature in the Nest. Use a clear headshot or a clean brand logo if building a creator presence. This appears next to every **Honk** you emit.
 * **Edit Profile:** Use this to update your bio, link your landing pages, or swap your profile image.
 * **Settings (Gear Icon):** Access deep-level account configurations, notifications, and security protocols.
+
 ---
 * **Display Name:** Your human-readable name. Unlike handles, this can include emojis and spaces to reflect your personality. You can change this at any time to reflect your evolving voice.
 * **User Handle:** Your permanent `@address` on the AT Protocol. This is how the flock mentions you in conversation. While you can change it, switching your @handle after building visibility can disrupt how people find and tag you.
@@ -31,8 +28,6 @@ The bottom navigation bar is your primary tool for moving through Gander's secto
 * **➕ New Honk (Post):** The central button to initiate a fresh transmission to the Nest.
 * **💬 Messages:** Direct, encrypted communication lines between you and other individuals in the flock.
 * **👤 Profile:** A quick shortcut back to your own command center to view your history and boards.
-
----
 
 !!! tip "💡 TACTICAL TIP: POSTS VS. BOARDS"
     Just above the navigation bar, you can toggle between your **Honks (Posts)** and your **Boards**. While Honks are your chronological transmissions, **Boards** are curated folders where you can organize intel by topic for others to explore (coming soon).
@@ -72,6 +67,7 @@ Navigate to **Settings → Moderation** to manage your blocklist:
 * **Blockes Accounts:** View or update blocked accounts you've deemed not in your flock v-formation.
 
 ### Data Privacy
+
 Gander emphasizes user sovereignty. In the **Data privacy** section, you have full control over your footprint:
 
 * **Export My Data:** Download a complete archive of your transmissions, media, and social graph.
@@ -79,6 +75,7 @@ Gander emphasizes user sovereignty. In the **Data privacy** section, you have fu
 * **Delete Account:** Permanent termination of your identity and deletion of your data from the AT Protocol instance.
 
 ### Operational Oversight
+
 The main Settings menu provides access to further mission-critical sectors:
 
 * **Moderation:** Configure your content filters and manage blocked signals to keep your feed clean.
@@ -88,8 +85,6 @@ The main Settings menu provides access to further mission-critical sectors:
 !!! warning "MISSION LOGOUT"
     To safely exit the app, use the **Sign out** command at the bottom of the Settings menu. Ensure you have your credentials saved, as the Nest requires a fresh handshake for every new session.
 
----
-
 ## :material-leaf-maple:Content & Media Preferences
 
 Your experience in the Nest is customizable. Within the **Content and media** sector of your settings, you can toggle how the app handles transparency labels and third-party intel.
@@ -98,19 +93,15 @@ Your experience in the Nest is customizable. Within the **Content and media** se
 
 Navigate to **Settings → Content and media** to adjust your viewing parameters:
 
-* **Show labeled AI content:** * **ON:** Displays posts that creators have tagged as AI-generated. 
+* **Show labeled AI content:** * **ON:** Displays posts that creators have tagged as AI-generated.
     * **OFF:** Silences transmissions with synthetic metadata, prioritizing purely human-made signal in your feed.
 
-* **Show bias + fact-check ratings:** * **ON:** Displays third-party media bias and factuality labels on link previews (e.g., CBC ratings). 
+* **Show bias + fact-check ratings:** * **ON:** Displays third-party media bias and factuality labels on link previews (e.g., CBC ratings).
     * **OFF:** Hides these labels for a cleaner, marker-free interface.
 
 !!! info "The Verification Philosophy"
     Gander defaults these settings to **ON** to support the "Truth & Transparency" mission. Disabling these markers reduces your available intelligence on external links and synthetic content.
 
----
-
 !!! danger "UNOFFICIAL BRIEFING"
     Data based on Release 1.0.1 (109).
     This is community-observed intelligence.
-
----

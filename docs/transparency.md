@@ -2,12 +2,8 @@
 
 ![Transparency](images/transparency-header.png)
 
----
-
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
-
----
 
 ## :material-leaf-maple:Media Verification
 
@@ -32,15 +28,9 @@ When you paste a URL (like `https://cbc.ca`) into a new **Honk**, Gander generat
 !!! info "Operational Transparency"
     The little **(i)** icon next to the factuality score provides a deeper dive into how the rating was determined. Gander uses independent third-party data to ensure these ratings remain neutral and objective.
 
----
-
 !!! tip "TACTICAL TIP: SIGNAL VS. NOISE"
     If a link generates a **LOW FACTUALITY** or **EXTREME BIAS** warning, it doesn't mean you can't post it—it just means the flock will see that metadata. This empowers everyone to make their own informed decisions about the intelligence being shared.
-
----
 
 !!! danger "UNOFFICIAL BRIEFING"
     Data based on Release 1.0.1 (109).
     This is community-observed intelligence.
-
----

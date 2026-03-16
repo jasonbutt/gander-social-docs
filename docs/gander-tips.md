@@ -1,12 +1,8 @@
 
 # GANDER TIPS: ADVICE FROM THE FLOCK
 
----
-
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
-
----
 
 ## HASHTAGS TO TRACK
 

@@ -35,5 +35,5 @@ Select a sector below to begin your briefing:
 - [**Report Signal Drift**](https://github.com/jasonbutt/gander-social-docs/issues/new/choose): Submit a User Guide bug report directly to the community hub.
 
 !!! danger "UNOFFICIAL BRIEFING"
-    Data based on Release 1.0.1 (109).
+    Data based on Release 1.0.1 (115).
     This is community-observed intelligence.

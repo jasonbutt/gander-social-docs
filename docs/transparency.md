@@ -32,5 +32,5 @@ When you paste a URL (like `https://cbc.ca`) into a new **Honk**, Gander generat
     If a link generates a **LOW FACTUALITY** or **EXTREME BIAS** warning, it doesn't mean you can't post it—it just means the flock will see that metadata. This empowers everyone to make their own informed decisions about the intelligence being shared.
 
 !!! danger "UNOFFICIAL BRIEFING"
-    Data based on Release 1.0.1 (109).
+    Data based on Release 1.0.1 (115).
     This is community-observed intelligence.

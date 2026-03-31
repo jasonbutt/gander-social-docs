@@ -178,5 +178,5 @@ When navigating the **Flicks Feed** (via the play icon in the bottom bar), you c
     Flicks aren't just about "content", they are about authentic, human-made windows into your world. Whether you're capturing the quiet of the North or the chaos of a project, keep your signal clear and your attribution honest.
 
 !!! danger "UNOFFICIAL BRIEFING"
-    Data based on Release 1.0.1 (109).
+    Data based on Release 1.0.1 (115).
     This is community-observed intelligence.

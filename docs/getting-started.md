@@ -103,5 +103,5 @@ Navigate to **Settings → Content and media** to adjust your viewing parameters
     Gander defaults these settings to **ON** to support the "Truth & Transparency" mission. Disabling these markers reduces your available intelligence on external links and synthetic content.
 
 !!! danger "UNOFFICIAL BRIEFING"
-    Data based on Release 1.0.1 (109).
+    Data based on Release 1.0.1 (115).
     This is community-observed intelligence.

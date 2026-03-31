@@ -186,6 +186,12 @@ Navigate to **Settings → Content and media** to adjust your viewing parameters
 !!! info "The Verification Philosophy"
     Gander defaults these settings to **ON** to support the "Truth & Transparency" mission. Disabling these markers reduces your available intelligence on external links and synthetic content.
 
+![Profile Interface](images/Settings-ContentMedia.png)
+
+And a new 115 setting **Your Interests**. You can select a number interests and they will surface content from those groups on the **For You** feed in the "Based on your interests" section. It will also show up in the **Feeds** >> **Topics** feed.
+
+![Profile Interface](images/YourInterests.png)
+
 !!! danger "UNOFFICIAL BRIEFING"
     Data based on Release 1.0.1 (115).
     This is community-observed intelligence.

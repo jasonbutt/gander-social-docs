@@ -18,29 +18,28 @@ Build 115 is less about one big feature and more about shaping how Gander works 
 
 ### Home (FYP) is now your main space
 Your Home feed is now centred around your **For You Page**, which prioritises:
+
 - People you interact with
 - People in your Nest
 - Conversations relevant to you
 
 **Home = your people and conversations**
 
----
-
 ### Nest now has a clearer purpose
 Your **Nest** is now your inner circle — the people you don’t want to miss.  
 Posts from people in your Nest are prioritised in your Home experience.
 
 Use Nest for:
+
 - Close friends
 - People you interact with often
 - Important accounts you don’t want buried in feeds
-
----
 
 ### Feeds are now for discovery and topics
 Feeds are being positioned as **exploration spaces**, not your main timeline.
 
 Examples of Feeds:
+
 - On Gander
 - Following
 - Your Nest
@@ -49,32 +48,29 @@ Examples of Feeds:
 
 **Feeds = explore the community**
 
----
-
 ### Network Scope Control
 You can now choose whether your feeds show:
+
 - **Gander only**, or
-- **Gander + the wider AT network**
+- **Gander + BlueSky and the wider AT network**
 
 This gives users control over whether they want a more local/community experience or a broader network experience.
 
----
-
 ### People You May Know
 Gander now suggests people based on:
+
 - Mutual follows
 - Network proximity
 - Shared connections
 
 This helps new users find their community faster.
 
----
-
 ### Like Counts Removed (Likes still exist)
 You can still like posts and people still get notifications.  
 However, **public like counts are no longer shown**.
 
 The goal is to:
+
 - Reduce popularity contests
 - Reduce social comparison
 - Focus more on conversation and community
@@ -82,9 +78,8 @@ The goal is to:
 
 This is a design choice to encourage **quality discussion over engagement metrics**.
 
----
-
 ## Coming Soon (Roadmap Items Mentioned)
+
 - Accessibility improvements
 - Dark mode
 - French language support
@@ -95,7 +90,6 @@ This is a design choice to encourage **quality discussion over engagement metric
 - Browser-based app
 - Cross-network posting
 - More reactions and post metrics
-
 
 If you encounter "Signal Drift" or unexpected behaviour, consult the official logs before reporting:
 

@@ -5,6 +5,52 @@
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
+## :material-leaf-maple:Logging In to Gander (No Passwords)
+
+Gander has moved away from passwords and now uses **one-time login codes sent to your email**. This is called passwordless login and improves both security and ease of use.
+
+Instead of remembering a password, you confirm your identity using a code sent to your email.
+
+### How Login Works Now
+
+### Step 1 – Open Gander
+When you open the app, you will see the welcome screen. Tap **Continue to Gander**, then choose:
+- Your account
+- Other account
+- Add account
+
+### Step 2 – Request a Login Code
+After selecting your account, Gander will send a **one-time code to your email**.
+
+Tap **Send to email**.
+
+![Login Page One](images/Gander-Login-1.png)
+
+### Step 3 – Enter the Code
+Check your email for the login code and enter it into the app.
+
+The code:
+- Is usually 6 digits
+- Expires after a few minutes
+- Can be resent if needed
+
+Once entered, you’ll be logged in.
+
+![Login Page two](images/Gander-Login-2.png)
+
+## Why Gander Removed Passwords
+
+Gander moved to passwordless login because:
+
+- People reuse passwords across sites
+- Password databases get leaked
+- Password resets are a major source of account takeovers
+- One-time codes are more secure and easier for most users
+
+In simple terms:
+
+**Your email becomes your key instead of a password you have to remember.**
+
 ## :material-leaf-maple:Visual Identity
 
 Your profile is your digital transponder in the Nest. Understanding these interface markers will help you navigate your own identity and engage with other members of the flock.
@@ -19,7 +65,7 @@ Your profile is your digital transponder in the Nest. Understanding these interf
 * **Display Name:** Your human-readable name. Unlike handles, this can include emojis and spaces to reflect your personality. You can change this at any time to reflect your evolving voice.
 * **User Handle:** Your permanent `@address` on the AT Protocol. This is how the flock mentions you in conversation. While you can change it, switching your @handle after building visibility can disrupt how people find and tag you.
 * **Account Stats:** A real-time readout of your **Followers**, those you are **Following**, and your total volume of **Honks (Posts)**.
-* **Profile Description:** Your mission statement. Use this space to define your signal so others know why they should join your formation. You have up to 4000 characters. Use clear beats to signal your interests and help the right "flock" find you. Hyperlinks and emojis are permitted.
+* **Profile Description:** Your mission statement. Use this space to define your signal so others know why they should join your formation. You used to have up to 4000 characters, which has no been reduced to 300 characters(Unknown what happens if you edit at this point). Use clear beats to signal your interests and help the right "flock" find you. Hyperlinks and emojis are permitted.
 
 The bottom navigation bar is your primary tool for moving through Gander's sectors:
 
@@ -32,7 +78,7 @@ The bottom navigation bar is your primary tool for moving through Gander's secto
 !!! tip "💡 TACTICAL TIP: POSTS VS. BOARDS"
     Just above the navigation bar, you can toggle between your **Honks (Posts)** and your **Boards**. While Honks are your chronological transmissions, **Boards** are curated folders where you can organize intel by topic for others to explore (coming soon).
 
-### :material-leaf-maple:The Display Name VS Handle
+## :material-leaf-maple:The Display Name VS Handle
 
 In the Nest, your identity is split into two distinct layers. Understanding the difference is key to navigating the AT Protocol.
 
@@ -43,6 +89,44 @@ In the Nest, your identity is split into two distinct layers. Understanding the 
 
 !!! info "Tactical Summary"
     Your **Display Name** is how the flock sees you; your **Handle** is how the network finds you.
+
+Build 115 introduced two new optional profile fields: **Location** and **Website**. These help improve discovery, profiles, and how people connect with each other on Gander.
+
+## Location (Optional)
+
+You can now add a **Location** to your profile. This field is completely optional, but it will become more useful over time as Gander introduces more local and community-based features.
+
+In the future, location may be used to help surface:
+
+- Local posts
+- Community updates
+- Regional feeds
+
+You do **not** need to enter a precise address (there is a drop-down for city, select the nearest) — most people will just enter a city or region.
+
+Example:
+
+- Toronto, ON
+- Halifax, NS
+- Vancouver, BC
+- London, UK
+
+Think of Location as a way to help build **local community**, not as a tracking feature.
+
+## Website
+
+You can now add a **Website** to your profile. This field allows you to add a **clickable link** to:
+
+- Personal website
+- Blog
+- Linktree
+- Portfolio
+- Business page
+- GitHub
+- Online store
+- Newsletter
+
+This is important because **profile descriptions no longer support clickable links**, so if you want people to visit your site, you should put your link in the Website field instead of your bio.
 
 ![Profile Interface](images/edit-gander-profile.png)
 

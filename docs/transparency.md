@@ -5,7 +5,7 @@
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
-## :material-leaf-maple:Media Verification
+## :material-leaf-maple: Media Verification
 
 Gander is designed to combat misinformation by providing real-time context for external links. When you share a news article or website, the "Truth Transponder" automatically pulls data to help the flock assess the signal quality. When you post a link this way, the system checks the source against `mediafactcheck.com`.
 

@@ -1,6 +1,6 @@
 # THE BRIEFING ROOM
 
-!!! info "Status Report: February 2026"
+!!! info "Status Report: April 2026"
     This sector tracks the evolution of Gander Social based on community observations and official roadmap progress.
 
 !!! danger "UNOFFICIAL INTELLIGENCE"
@@ -8,13 +8,13 @@
 
 ---
 
-## Release Notes (COMMUNITY OBSERVED)
+## :material-leaf-maple: Release Notes (COMMUNITY OBSERVED)
 
 The Flock is currently operating on **Release 1.0.1 (115)**.
 
 Build 115 is less about one big feature and more about shaping how Gander works day-to-day. This update focuses on Home, Feeds, discovery, and reducing “social media scoreboard” behaviour.
 
-## What’s New / Changed
+## :material-leaf-maple: What’s New / Changed
 
 ### Home (FYP) is now your main space
 Your Home feed is now centred around your **For You Page**, which prioritises:
@@ -78,7 +78,7 @@ The goal is to:
 
 This is a design choice to encourage **quality discussion over engagement metrics**.
 
-## Coming Soon (Roadmap Items Mentioned)
+## :material-leaf-maple: Coming Soon (Roadmap Items Mentioned)
 
 - Accessibility improvements
 - Dark mode
@@ -93,9 +93,7 @@ This is a design choice to encourage **quality discussion over engagement metric
 
 If you encounter "Signal Drift" or unexpected behaviour, consult the official logs before reporting:
 
-[**Gander Social Known Bugs**](https://gandersocial.ca/blog/gander-beta-known-bugs/): The flight crew's official list of tracked issues and planned repairs. Last Updated March 5, 9:01AM.
-
-## Release Notes from Gander
+## :material-leaf-maple:  Release Notes from Gander
 
 - [Release v1.0.0.115 – March, 31 2026](https://gandersocial.ca/blog/oh-we-did-some-stuff-in-this-release-of-gander/)
 - [Release v1.0.0.109 – February, 18 2026](https://gandersocial.ca/blog/release-v1-0-0-109-february-18-2026/)

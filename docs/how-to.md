@@ -5,7 +5,7 @@
 !!! danger "UNOFFICIAL INTELLIGENCE"
     This guide is maintained by community volunteers. While we aim for accuracy, always cross-reference with [GanderSocial.ca](https://gandersocial.ca).
 
-## :material-leaf-maple:The Tramsmission(POSTING)
+## :material-leaf-maple: The Tramsmission(POSTING)
 
 When initiating a new **Honk** (Post), you will see an attribution selector above your keyboard. This ensures your **Honk** carries the correct metadata for the community. There will be other tags for content in the future (so, we hear.)
 
@@ -25,7 +25,7 @@ Transparency is a core mission parameter. By tagging your content correctly, you
 !!! info "Tactical Tip: The Honk Workflow"
     Before you hit **Post**, get into the habit of checking your attribution. It only takes a second to switch between "Human-made" and "AI-generated," but it defines the integrity of your signal in the feed.
 
-## Anatomy of a Honk
+## :material-leaf-maple: Anatomy of a Honk
 
 A **Honk** is more than just a post; it is a transmission to the Nest. Understanding the engagement markers allows you to amplify high-signal content and join the conversation effectively.
 
@@ -36,7 +36,12 @@ Every Honk in your feed includes specific metadata and interaction points:
 * **Author Identity:** Displays the sender's profile image and `@handle`. A red checkmark indicates a verified community signal.
 * **Timestamp:** Shows how long ago the transmission was emitted (e.g., "a day").
 * **Content Area:** The primary payload—text, hashtags (like `#PetTax`), and media (images or video).
-* **Extended Intel (Three Dots):** Access the sub-menu to report "Signal Drift," mute the sender, or copy the direct link to the transmission.
+* **Mutuals Commenting:** People you follow that are commenting or discussion the post.
+* **Mutal Likes:** People you follow that have liked the post.
+* **Add to board:** Add to a board right from the post.
+* **Extended Intel (Three Dots):** Access the sub-menu to **report** "Signal Drift," **mute** the account, **share profile**, or **unfollow** the account.
+
+You may notice that like counts are no longer displayed. Instead, you will see which of your mutuals have liked or commented on a post, helping you focus more on conversations and people you know rather than numbers.
 
 ### Engagement
 
@@ -45,14 +50,13 @@ At the bottom of every Honk, you have four primary ways to interact with the flo
 * **🤍 Likes:** A simple acknowledgment of the signal. Tapping the heart increases the visibility of the transmission within the Nest.
 * **💬 Comment:** Initiate a direct response or start a sub-thread. This is where the deepest community discourse happens.
 * **🔁 Repost / Quote:** * **Repost:** Immediately amplify the signal to your own followers.
-    * **Quote:** Add your own tactical context before passing the signal along.
+  * **Quote:** Add your own tactical context before passing the signal along.
 * **🔗 Share:** Export the transmission to external networks or copy the link to your clipboard.
----
 
 !!! info "The #Hashtag Strategy"
     Using hashtags like `#PetTax` or `#GanderBeta` isn't just for flair—it helps the search transponders categorize your intel so the right members of the flock can find it. And we all know you have to pay the `#PetTax`
 
-## :material-leaf-maple:Hashtags
+## :material-leaf-maple: Hashtags
 
 In the Nest, **Hashtags** act as frequency markers. They aren't just for flair; they allow the Gander search to categorize your honks so the right members of the flock can find your intel.
 
@@ -75,10 +79,33 @@ While you can create any tag, certain "Sector Tags" have become standard within 
 !!! tip "💡 Tactical Tagging"
     Don't over-signal. Using 1–3 relevant hashtags is high-signal; using a wall of tags creates "noise" that can lead to your transmission being ignored or filtered by moderation tools. Also, please use #CamelCase and/or #PascalCase so they are accessible. It's easier to read.
 
+### Searching
+
+You can use the search feature to find **people, posts, and topics** by using keywords.
+
+You can search for:
+
+* Names
+* Usernames
+* Topics
+* Keywords
+* Hashtags
+
+Hashtags can be searched just like keywords. For example, searching **IndieAuthor** will return posts that include or are tagged with that hashtag.
+
+Search is a good way to:
+
+* Find people with similar interests
+* Discover conversations
+* Find communities and topics
+* Catch up on posts about a specific subject
+
+![Search](images/Search.png)
+
 !!! info "The Search Horizon"
     Because Gander is on the AT Protocol, searching for a hashtag can often pull in signals from the entire network, including Bluesky, depending on your current search settings.
 
-## :material-leaf-maple:The "Timmies' Rule"
+## :material-leaf-maple: The "Timmies' Rule"
 
 We maintain a "sharing space" rather than a "noise" space.
 
@@ -86,9 +113,10 @@ We maintain a "sharing space" rather than a "noise" space.
 * **Thread Hygiene:** When replying, aim to improve the thread rather than inflaming it.
 * **Mentions (@):** Tagging other flyers is an invitation to join the dialogue, not a summons for attention.
 
-## material-leaf-maple:Board Tactics
+## :material-leaf-maple: Board Tactics
 
 On Gander, you don't just "Honk" into the void, you organize your intelligence. **Boards** are curated folders that allow you to group transmissions by topic, project, or interest. Unlike a chronological feed, Boards are evergreen and provide a structured way for the flock to explore your content(currently it limited to your visability).
+
 ![Boards](images/boards.png)
 
 ### Creating a New Formation
@@ -106,6 +134,9 @@ Once a Board is active, you can save **honks** to it:
 
 * **From your own Honks:** When creating or viewing your own or someone elses **Honks**, use the "Add to Board" prompt.
 * **Organization:** You can add a single Honk to multiple Boards if the intel overlaps sectors. Simply check the boxes for the relevant Boards and hit **Save**.
+* **Public:** Make your boards available to all or keep them private.
+
+![Boards](images/Sharing-boards.png)
 
 ### Why Boards Matter
 
@@ -113,11 +144,14 @@ Boards transform your profile from a simple timeline into a library of community
 
 * **For Curators:** It allows you to showcase your best work or specific niche interests without them getting buried by new Honks.
 * **For Followers:** In the future it'll make it easier for new members of the flock to "catch up" on specific topics you've covered in the past.
+* **Share:** Share your boards, share others boards.
+
+![Boards](images/Sending-boards.png)
 
 !!! tip "💡 Tactical Curation"
     Think of Boards like the chapters of a book. Use them to group your best #PetTax photos, your #IndieAuthor updates, or community guides like this one!
 
-## :material-leaf-maple:Curating Your Nest
+## :material-leaf-maple: Curating Your Nest
 
 In the vast expanse of the AT Protocol, **Your Nest** is your curated command center. It allows you to filter the noise of the global feed and focus specifically on the individuals and organizations you trust most.
 
@@ -129,6 +163,8 @@ Because Gander is built on the **AT Protocol**, your Nest can include:
 
 * **Gander Locals:** Members of the flock directly on the Gander instance.
 * **Bluesky Contacts:** Because both platforms share the same open-source code, you can engage with and add Bluesky users directly to your Nest without leaving the app.
+
+![Your Nest](images/AT-Proto.png)
 
 ### Managing Who's in your Nest
 

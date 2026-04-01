@@ -9,7 +9,7 @@
 Hashtags on Gander function as markers across the posts. Use these to find specific formations. The #GanderTips frequency is the central library for community-sourced intelligence. Use this guide to optimize your signal and master the manoeuvers of the Nest (Remember, use CamelCase for visually impared text-readers.)
 
 !!! info HashTags
-    As of build 1.0.1 (109) HashTags are available, and clicakble, just not searchable, yet.
+    As of build 1.0.1 (115) HashTags are available, and clicakble, just and searchable.
 
 At the moment @OceanofHonks is keeping #Hashtags posts alive. Follow them for additional updates.
 

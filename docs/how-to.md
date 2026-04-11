@@ -180,7 +180,46 @@ To customize your primary feed, tap **Edit Your Nest** from the home screen:
 !!! tip "Tactical Curation"
     Use "Your Nest" for your must, read alerts and close colleagues, while using the "Following" tab for general situational awareness of the wider flock.
 
-## :material-leaf-maple:Flicks
+## :material-leaf-maple: Images
+
+In the App, an inclusive community is a strong community. While adding descriptions to your images isn't mandatory, it is a vital community standard that ensures our visually impaired members can receive your full honk.
+
+Follow these tactical steps to ensure your visual transmissions are accessible to everyone in the flock:
+
+**1. Selecting your Image(S)**
+
+When initiating a Honk, tap the image icon to open your Camera Roll. Select the image(s) you wish to broadcast.
+Tactical Tip: You can select multiple images, upto four to create a gallery transmission.
+
+**2. Spot the missing ALT Text**
+
+Gander is designed to remind you about inclusivity. If you attach an image without a description, a yellow warning banner will appear: "Images missing ALT text. Add it now." Do not ignore this prompt. Tapping "Add it now" (or the small accessibility icon on the image thumbnail) opens the metadata editor.
+
+![Add Images](images/Add-image.png)
+
+**3. Compose the ALT Text**
+
+In the Edit Image screen, you will see a text field specifically for your description.
+Be Descriptive: Don't just say "A bird." Say "A Canada Goose wearing a small propeller hat standing against a cloudy blue sky."
+Keep it Concise: Focus on the most important visual elements of the transmission.
+Save Changes: Once your description is entered, hit Save Changes to lock in the metadata.
+
+![Add ALT text](images/ALTText.png)
+
+**4. Broadcast that Honk**
+
+Once your ALT text is added, the warning banner will disappear. You are now ready to hit Post. By taking these extra seconds, you are helping "set the tone" for a high-signal, inclusive environment.
+
+!!! success "Community Leadership"
+"We need to be an inclusive community here on Gander. That means we must include ALT text on all our images. Let's set the tone." — Community Protocol
+
+!!! tip "💡 Tactical ALT Text"
+If your image contains text (like a meme or an infographic), the ALT text should include the exact wording of that text so screen readers can relay the information accurately.
+
+!!! info "Visual Markers"
+When you see a small "ALT" badge on an image in your feed, it means the sender has followed the inclusion protocol. You can tap that badge to read the description yourself.
+
+## :material-leaf-maple: Flicks
 
 **Flicks** are Gander’s dedicated sector for short-form, vertical video **Honks**. Whether it’s a quick update from the field or a deep-dive report, Flicks allow you to share high-impact visual intel with the flock.
 

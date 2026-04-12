@@ -211,13 +211,13 @@ Save Changes: Once your description is entered, hit Save Changes to lock in the 
 Once your ALT text is added, the warning banner will disappear. You are now ready to hit Post. By taking these extra seconds, you are helping "set the tone" for a high-signal, inclusive environment.
 
 !!! success "Community Leadership"
-   "We need to be an inclusive community here on Gander. That means we must include ALT text on all our images. Let's set the tone." — Community Protocol
+    "We need to be an inclusive community here on Gander. That means we must include ALT text on all our images. Let's set the tone." — Community Protocol
 
 !!! tip "💡 Tactical ALT Text"
-  If your image contains text (like a meme or an infographic), the ALT text should include the exact wording of that text so screen readers can relay the information accurately.
+    If your image contains text (like a meme or an infographic), the ALT text should include the exact wording of that text so screen readers can relay the information accurately.
 
 !!! info "Visual Markers"
-   When you see a small "ALT" badge on an image in your feed, it means the sender has followed the inclusion protocol. You can tap that badge to read the description yourself.
+    When you see a small "ALT" badge on an image in your feed, it means the sender has followed the inclusion protocol. You can tap that badge to read the description yourself.
 
 ## :material-leaf-maple: Flicks
 
